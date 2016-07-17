@@ -1,2 +1,2 @@
 # usefulShellScripts
-给Linux白痴老婆准备的日常工作中经常用到的Shell脚本
+经常用到的一些shell脚本
